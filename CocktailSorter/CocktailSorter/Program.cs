@@ -1,6 +1,4 @@
-﻿
-
-namespace CocktailSorter
+﻿namespace CocktailSorter
 {
     internal class Program
     {
@@ -27,8 +25,6 @@ namespace CocktailSorter
             Console.WriteLine("Finish!");
         }
     }
-
-
 
     /// <summary>
     ///     Cocktail Sort is a variation of Bubble sort, where Cocktail
